@@ -1,4 +1,4 @@
-cookiecutter-
+cookiecutter-cl
 ===============
 A [cookiecutter](https://github.com/audreyr/cookiecutter) template for Common Lisp projects
 
