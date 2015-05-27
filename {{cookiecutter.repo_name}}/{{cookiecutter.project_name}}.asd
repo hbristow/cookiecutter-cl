@@ -6,4 +6,5 @@
   :serial t
   :components ((:module "src"
                         :serial t
-                        :components ((:file "packages")))))
+                        :components ((:file "packages")
+                                     (:file "{{ cookiecutter.project_name }}")))))
